@@ -3,7 +3,6 @@ package com.rocksoft.synacor.solution
 
 class TeleportRegister {
 
-
 	public static final long UPPER = 32768
 
 	static long f(long n, long r7) {
