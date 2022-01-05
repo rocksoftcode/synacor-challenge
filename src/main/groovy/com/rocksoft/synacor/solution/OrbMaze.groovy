@@ -1,4 +1,4 @@
-package com.rocksoft.synacor
+package com.rocksoft.synacor.solution
 
 
 class OrbMaze {
